@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\Users\danil\WS Generation\Generation\.metadata\.plugins\org.eclipse.jdt.core
+734773669.index
+3540120503.index
+3371353121.index
+2562831649.index
+4180718132.index

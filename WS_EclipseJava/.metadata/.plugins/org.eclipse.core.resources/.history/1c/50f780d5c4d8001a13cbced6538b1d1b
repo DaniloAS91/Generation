@@ -1,0 +1,10 @@
+package converteSegundos;
+
+public class convertSeg {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
