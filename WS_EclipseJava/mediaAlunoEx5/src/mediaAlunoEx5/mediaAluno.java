@@ -7,6 +7,7 @@ public class mediaAluno {
 		Scanner sc = new Scanner(System.in);
 		
 		double notaA, notaB, notaC, media;
+		@SuppressWarnings("unused")
 		String nome;
 		
 		System.out.println("Digite o nome do aluno: ");
