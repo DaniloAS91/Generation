@@ -6,7 +6,7 @@ public class ControleTV {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		int status = 0, vol = 0, canal = 1;
+		int status = 1, vol = 0, canal = 1;
 		
 		televisao tv = new televisao(vol, canal, status);
 		
@@ -19,7 +19,7 @@ public class ControleTV {
 					+ "\n3 - Diminui Volume "
 					+ "\n4 - Muda Canal + "
 					+ "\n5 - Muda Canal - "
-					+ "\n0 - Sair ");
+					+ "\n0 - Sair \n");
 			op = sc.nextInt();
 			
 			switch(op) {
@@ -54,7 +54,7 @@ public class ControleTV {
 					break;
 					
 				default:
-					System.out.println("Nada Acontece!!");
+					System.out.println("Nada Acontece??");
 					
 			}
 		}

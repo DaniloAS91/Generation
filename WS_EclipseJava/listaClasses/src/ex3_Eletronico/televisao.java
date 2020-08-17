@@ -2,7 +2,7 @@ package ex3_Eletronico;
 
 public class televisao {
 	
-	private int volumeAtual , canalAtual, statusLig;
+	private int volumeAtual, canalAtual, statusLig;
 
 	public televisao(int volumeAtual, int canalAtual, int statusLig) {
 		this.volumeAtual = volumeAtual;
@@ -13,13 +13,13 @@ public class televisao {
 	// Ligando ou Desligando
 	
 	int liga (int statusLig) {
-		if(statusLig == 1 ) {
+		if(statusLig == 0 ) {
 			System.out.println("Desligando...");
-			return 0;
+			return 1;
 		}
 		else {
 			System.out.println("Ligando...");
-			return 1;
+			return 0;
 		}
 	}
 	
