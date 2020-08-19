@@ -2,6 +2,14 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.util.Calendar"/>
     <fullyQualifiedTypeName name="java.lang.Math"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.io.FileWriter"/>
+    <fullyQualifiedTypeName name="aula20_interfaces.ParticipanteForum"/>
+    <fullyQualifiedTypeName name="aula21_Polimorfismo.PessoaFisica"/>
+    <fullyQualifiedTypeName name="aula21_Polimorfismo.PessoaJuridica"/>
+    <fullyQualifiedTypeName name="aula21_Polimorfismo.Pessoa"/>
+    <fullyQualifiedTypeName name="ex1_Animais.Preguica"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>
